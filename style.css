@@ -1,0 +1,37 @@
+/* tag based selector */
+body{
+    color: black;
+    background-color: antiquewhite;
+    font-family: serif;
+    font-size: 1em;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: green;
+}
+
+/* id based selector */
+#html-anatomy-heading {
+    color: red;
+}
+
+/* class based selector */
+.underline{
+    text-decoration: underline;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+#intro-ps {
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+
